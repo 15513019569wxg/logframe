@@ -1,0 +1,7 @@
+# 项目排除路径
+/jcl/target/
+/log4j/target/
+/log4j2/target/
+/logback/target/
+/out/
+/slf4j/target/
